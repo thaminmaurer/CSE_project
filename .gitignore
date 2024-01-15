@@ -1,6 +1,3 @@
-UNet/base_training/groundtruth/
-UNet/base_training/images/
-UNet/base_training/zip_files/
 UNet/check_points/
 UNet/logs/train/
 UNet/logs/validation/
@@ -10,7 +7,4 @@ UNet/training/groundtruth/
 UNet/training/images/
 UNet/__pycache__/
 UNet/.ipynb_checkpoints/
-Datasets/EPFL/
-Datasets/UAV-benchmark-M/
-Datasets/uavid_v1.5_official_release_image/
 ```
